@@ -13,7 +13,7 @@ python3 api.py
 ```
 
 ## TODOs:
-    - HMI Update
+    - GO LIVE
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
